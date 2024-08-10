@@ -4,7 +4,8 @@
   "description": "First project of Sambhala started on - 11 August 2024",
   "main": "backend/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo No Test(s) Specified",
+    "dev": "nodemon --config nodemon.json ."
   },
   "repository": {
     "type": "git",

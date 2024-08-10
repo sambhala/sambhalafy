@@ -1,0 +1,6 @@
+{
+    "ignore": [".vscode", "node_modules", "frontend"],
+    "env": {
+        "NODE_ENV": "development"
+    }
+}
